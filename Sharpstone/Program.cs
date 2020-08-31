@@ -1,4 +1,4 @@
-//Copyright (c)2018 - 2019 , Rabia Alhaffar,All Rights Reserved!!!
+﻿//Copyright (c)2018 - 2019 , Rabia Alhaffar,All Rights Reserved!!!
 //Sharpstone Version 1.8.0.0,A C# .NET Command Line Created For C# Developers!!!
 using System;
 using System.CodeDom;
